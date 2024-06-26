@@ -1,5 +1,5 @@
 # Academic_Project
-PROJECT TITLE: A COMPARATIVE  PERFORMANCE ANALYSIS OF BANKRUPTCY PREDICTION WITH FINANCIAL RATIOS USING  KNN, MLP, BLR, LDA
+**PROJECT TITLE: A COMPARATIVE  PERFORMANCE ANALYSIS OF BANKRUPTCY PREDICTION WITH FINANCIAL RATIOS USING  KNN, MLP, BLR, LDA**
 
 ABSTRACT:
         Bankruptcy prediction is a critical issue for investors, creditors, and policymakers in the financial industry. The ability to predict bankruptcy in advance can help investors and creditors make informed decisions and avoid potential losses. In this project, we explore the Taiwan Bankruptcy dataset and evaluate the performance of different classification models in predicting bankruptcy. 
